@@ -1,4 +1,4 @@
-[Notebook](https://colab.research.google.com/drive/1acs0D_j_wsOc0suj1Vd6PWLd8GQC6gkt#scrollTo=6S0FhxufjPeG)
+[Colab Notebook](https://colab.research.google.com/drive/1acs0D_j_wsOc0suj1Vd6PWLd8GQC6gkt#scrollTo=6S0FhxufjPeG)
 # RNN_GRU_LSTM_MNIST_Classification
 MNIST is a popular benchmark dataset for handwritten digit recognition. In this project, we will explore the performance of RNN, GRU, and LSTM model  for classifying the MNIST digits
 Welcome to my Colab notebook showcasing my skills in Recurrent Neural Networks (RNNs) for MNIST data classification. In this notebook, I have implemented and trained three different types of RNN models: RNN, GRU, and LSTM. The goal of this project is to demonstrate my proficiency in working with sequential data and applying deep learning techniques for classification tasks.
